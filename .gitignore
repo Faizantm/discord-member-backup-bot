@@ -1,0 +1,11 @@
+config.json
+auths.txt
+bot_status.json
+bot_commands.json
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.log
+.local/
+start.sh
